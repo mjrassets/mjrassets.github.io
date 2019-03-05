@@ -42,4 +42,5 @@ https://mjrassets.github.io/static/map/xinjiang.json
 https://mjrassets.github.io/static/map/xizang.json
 https://mjrassets.github.io/static/map/yunnan.json
 https://mjrassets.github.io/static/map/zhejiang.json
+https://mjrassets.github.io/static/map/HK.json
 ```
